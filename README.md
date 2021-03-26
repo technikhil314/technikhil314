@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Nikhil's GitHub stats](https://technikhil314-readme-stats.vercel.app
-/api?username=anuraghazra&count_private=true)
+![Nikhil's GitHub stats](https://technikhil314-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 <!--
 **technikhil314/technikhil314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
