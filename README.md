@@ -1,11 +1,5 @@
 ### Hi there 👋 I am Nikhil
 
-<div align="center" style="margin: 40px 0">
-    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=technikhil314&color=DE002D">
-    </a>
-</div>
-
 I am a web developer and devops enthusiast. I like automating mechanical/repetitive tasks. I dont have a formal computer science degree.
 
 I have my own open source projects mainly in angular and nodejs space. 
