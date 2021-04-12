@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Nikhil
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
 I am a web developer and devops enthusiast. I like automating mechanical/repetitive tasks. I dont have a formal computer science degree.
 
 I have my own open source projects mainly in angular and nodejs space. 
