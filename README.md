@@ -2,7 +2,7 @@
 
 I am a web developer and devops enthusiast. I like automating mechanical/repetitive tasks. I dont have a formal computer science degree.
 
-I have my own open source projects mainly in angular and nodejs space. 
+I have my own open source projects mainly in react, angular and nodejs space. I am interested in media + web integration especially webrtc and video processing.
 
 You can find more about me on my [portfolio site](https://technikhil314.netlify.app/).
 
