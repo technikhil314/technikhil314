@@ -8,7 +8,7 @@ You can find more about me on my [portfolio site](https://technikhil314.netlify.
 
 ![Nikhil's GitHub stats](https://technikhil314-readme-stats.vercel.app/api?username=technikhil314&count_private=true&theme=dark)
 
-![Nikhil's Github profile views](https://visitor-badge.glitch.me/badge?page_id=technikhil314)
+![Nikhil's Github profile views](https://komarev.com/ghpvc/?username=technikhil314&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--
 **technikhil314/technikhil314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
