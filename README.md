@@ -10,6 +10,8 @@ You can find more about me on my [portfolio site](https://technikhil314.netlify.
 
 ![Nikhil's Github profile views](https://komarev.com/ghpvc/?username=technikhil314&label=Profile%20views&color=0e75b6&style=flat)
 
+![Nikhil Mehta's all package downlaods](https://img.shields.io/endpoint?url=https://runkit.io/fezvrasta/combined-npm-downloads/1.0.0?packages=angular-2-daterangepicker,1command,tailwind-apply-cli,use-webworker,carousel-webcomponent,angular-datetimerangepicker,git-auto-badger)
+
 <!--
 **technikhil314/technikhil314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
